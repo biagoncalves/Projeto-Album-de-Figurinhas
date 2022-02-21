@@ -1,4 +1,4 @@
-# Projeto-Album-de-Figurinhas
+# Projeto Álbum de Figurinhas
 
 Projeto desenvolvido na aula de Python para iniciantes da FLAI.
 
